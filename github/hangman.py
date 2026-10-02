@@ -1,1 +1,1 @@
-print("Hang man")
+print("Hang man") # hang man
